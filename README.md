@@ -1,4 +1,4 @@
-# 🚀 Automated Data Pipeline for Asteroid Analysis 🚀 
+# 🚀 Automated data pipeline for asteroid analysis 🚀 
 
 This project automates the retrieval, storage, and analysis of asteroid data using NASA's API. The main goal is to refresh the database periodically, store and refresh the data, and later analyze it in a Jupyter Notebook.  
 
