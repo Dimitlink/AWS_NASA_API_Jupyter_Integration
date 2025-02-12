@@ -21,9 +21,17 @@ This project focuses on the extraction and periodic update of asteroid data from
 
 The asteroid data stored in PostgreSQL database is loaded into a Jupyter Notebook. This file contains several graphs along with short explanations and a conclusion about the differences between the potentially hazardous and non-hazardous asteroids. The Jupyter Notebook was created and modified in Google Colab. 
 
+Example of one of the graphs from the Jupyter Notebook:
+
+<p align="center">
+  <img src="https://i.postimg.cc/KvzXMtTt/graph.png">
+</p>
+
 ## **Project Architecture**
 
 
 <p align="center">
   <img src="https://i.postimg.cc/DwWGWb0Z/etl.png" alt="Project Architecture">
 </p>
+
+
