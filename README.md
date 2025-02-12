@@ -23,4 +23,4 @@ The asteroid data stored PostgreSQL database is loaded into a Jupyter Notebook. 
 
 ## **Project Architecture **
 
-![Project Architecture](https://drive.google.com/file/d/1PhoovoxXOjzrJ5bN1gQ_HDNZ9HHS5Tek/view?usp=sharing)
+[Project Architecture](https://drive.google.com/file/d/1PhoovoxXOjzrJ5bN1gQ_HDNZ9HHS5Tek)
