@@ -22,5 +22,5 @@ This project automates the retrieval, storage, and analysis of asteroid data usi
 The asteroid data stored PostgreSQL database is loaded into a Jupyter Notebook. This file contains several graphs along with short explanations.  
 
 ## **Project Architecture **
-If you have a diagram, you can upload an image and reference it like this:  
+
 ![Project Architecture](https://drive.google.com/file/d/1PhoovoxXOjzrJ5bN1gQ_HDNZ9HHS5Tek/view?usp=sharing)
