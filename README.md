@@ -1,6 +1,6 @@
 # 🚀 Automated data pipeline for asteroid analysis 🚀 
 
-This project automates the retrieval, storage, and analysis of asteroid data using NASA's API. The main goal is to refresh the database periodically, store and refresh the data, and later analyze it in a Jupyter Notebook.  
+This project focuses on the extraction and periodic update of asteroid data from NASA's API. The collected data is stored in a database and later analyzed in a Jupyter Notebook to identify the characteristics and factors that differentiate potentially hazardous asteroids from non-hazardous ones.
 
 ## **AWS Services**  
 
@@ -19,7 +19,7 @@ This project automates the retrieval, storage, and analysis of asteroid data usi
 
 ## **Jupyter Notebook for Data Analysis**  
 
-The asteroid data stored PostgreSQL database is loaded into a Jupyter Notebook. This file contains several graphs along with short explanations.  
+The asteroid data stored PostgreSQL database is loaded into a Jupyter Notebook. This file contains several graphs along with short explanations and a conclusion.  
 
 ## **Project Architecture**
 
