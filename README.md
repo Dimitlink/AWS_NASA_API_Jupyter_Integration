@@ -1,4 +1,4 @@
-# 🚀 Automated data pipeline for asteroid analysis 🚀 
+# 🚀 Integration of AWS, NASA's API, and PostgreSQL for data retrieval and analysis 🚀 
 
 This project focuses on the extraction and periodic update of asteroid data from NASA's API. The collected data is stored in a database and later analyzed in a Jupyter Notebook to identify the characteristics and factors that differentiate potentially hazardous asteroids from non-hazardous ones. The following list contains all the integrated services and tools used in this project:
 
